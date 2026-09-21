@@ -1,21 +1,3 @@
-<!--
-==========================================================================
- HOW TO USE THIS FILE  (this block is an HTML comment - GitHub hides it,
- so you can safely copy the WHOLE file including these lines)
-
- 1. Go to github.com/new
- 2. Repository name must be EXACTLY:  Nithishmsd
-    (same as your username - that is what makes it a profile README)
- 3. Set it to PUBLIC
- 4. Tick "Add a README file"
- 5. Create, then click the pencil icon on README.md
- 6. Delete what's there, paste this whole file, commit.
- 7. Visit github.com/Nithishmsd - it now appears at the top of your profile.
-
- NOTE: the Tomato SOC link below points to /tomato-soc. Rename the
- soc-tool repo FIRST, or that link will 404.
-==========================================================================
--->
 
 # Hi, I'm Nithish 👋
 
@@ -60,7 +42,7 @@ Chains OSINT, network and web reconnaissance behind one command and produces JSO
 
 ## 🛠 Beyond code
 
-**Data Recovery Center** — *Founder, 2025–present*
+**Data Recovery Center** — *Founder, 2026–present*
 
 I run a data recovery service in Chennai for individuals and small businesses. Deleted files, formatted drives, corrupted partitions, physically failed disks, and RAID/server rebuilds — across HDDs, SSDs, pen drives, memory cards, phones, NAS units and CCTV/DVR systems.
 
