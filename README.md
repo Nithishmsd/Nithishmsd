@@ -20,6 +20,12 @@ Chains OSINT, network and web reconnaissance behind one command and produces JSO
 
 `Python` `nmap` `amass` `subfinder` `httpx`
 
+### [AI LLM Security Scanner](https://github.com/Nithishmsd/AI_LLM-Security-Scanner) — LLM security testing framework
+
+A deterministic-first security scanner for testing LLM applications against the **OWASP Top 10 for LLMs**. Supports API, browser, and document attack paths, combining regex-based exploitation detection with semantic LLM judging. Generates **JSON/HTML security reports**, hardened prompts, remediation narratives, and target-specific DVAA security tests.
+
+`Python` `OWASP LLM Top 10` `Prompt Injection` `Playwright` `Ollama` `Regex Detection` `Semantic Judge`
+
 ---
 
 ## 🏆 Achievements
