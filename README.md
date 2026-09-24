@@ -65,7 +65,7 @@ A deterministic-first security scanner for testing LLM applications against the 
 
 ## 🛠 Beyond code
 
-**Data Recovery Center** — *Founder, 2025–present*
+**Data Recovery Center** — *Founder, 2026–present*
 
 I run a data recovery service in Chennai for individuals and small businesses. Deleted files, formatted drives, corrupted partitions, physically failed disks, and RAID/server rebuilds — across HDDs, SSDs, pen drives, memory cards, phones, NAS units and CCTV/DVR systems.
 
